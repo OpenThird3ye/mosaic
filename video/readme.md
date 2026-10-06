@@ -1,9 +1,9 @@
 # 4K 30fps Video Test 
 4K 30fps Video Test Signal Generator — with live display window\
-No OpenCV required. Uses: pillow, numpy, imageio-ffmpeg, tkinter (built-in)\
+No OpenCV required. Uses: pillow, numpy, imageio-ffmpeg, tkinter (built-in)
 
 Install:
-    pip install pillow numpy imageio-ffmpeg\
+    pip install pillow numpy imageio-ffmpeg
 
 Usage:
     python generate_test_signal.py                  # display only
